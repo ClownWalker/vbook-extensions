@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "HentaiVN",
-    "author": "vBook",
+    "author": "tuantv",
     "version": 28,
     "source": "https://hentaihvn.tv",
     "regexp": "(www.)?hen(tai)?(hvn|ayame).[a-z]+/\\d+-[^/]+.html$",

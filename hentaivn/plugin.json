@@ -2,9 +2,9 @@
   "metadata": {
     "name": "HentaiVN",
     "author": "tuantv",
-    "version": 28,
+    "version": 1,
     "source": "https://hentaihvn.tv",
-    "regexp": "(www.)?hen(tai)?(hvn|ayame).[a-z]+/\\d+-[^/]+.html$",
+    "regexp": "https://hentaihvn.tv/\\d+-[^/]+.html$",
     "description": "Đọc truyện trên trang HentaiVN",
     "locale": "vi_VN",
     "language": "javascript",

@@ -4,7 +4,7 @@
     "author": "tuantv",
     "version": 1,
     "source": "https://hentaihvn.tv",
-    "regexp": "https://hentaihvn.tv/\\d+-[^/]+.html$",
+    "regexp": "https://hentaihvn.tv/.*.html$",
     "description": "Đọc truyện trên trang HentaiVN",
     "locale": "vi_VN",
     "language": "javascript",

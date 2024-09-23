@@ -3,7 +3,7 @@
     "name": "HentaiVN",
     "author": "tuantv",
     "version": 1,
-    "source": "https://hentaihvn.tv",
+    "source": "https://hentaihvn.tv/",
     "regexp": "https://hentaihvn.tv/.*.html$",
     "description": "Đọc truyện trên trang HentaiVN",
     "locale": "vi_VN",
